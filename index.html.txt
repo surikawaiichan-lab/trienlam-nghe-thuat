@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Triển Lãm Nghệ Thuật Việt Nam</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>TRIỂN LÃM NGHỆ THUẬT VIỆT NAM</h1>
+    <p>Không gian trưng bày các ngành nghệ thuật tiêu biểu</p>
+</header>
+
+<nav>
+    <a href="#hoahoa">Hội Hoạ</a>
+    <a href="#dienanh">Điện Ảnh</a>
+    <a href="#bieudien">Biểu Diễn</a>
+    <a href="form.html">Đăng ký tham quan</a>
+</nav>
+
+<section id="hoahoa">
+    <h2>🎨 Mỹ thuật – Hội hoạ</h2>
+    <p>Hội hoạ Việt Nam bao gồm tranh sơn dầu, tranh lụa, tranh Đông Hồ.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Dong_Ho_painting.jpg"
+         alt="Tranh dân gian Đông Hồ">
+</section>
+
+<section id="dienanh">
+    <h2>🎬 Điện ảnh</h2>
+    <p>Điện ảnh Việt Nam ngày càng phát triển với nhiều tác phẩm nổi bật.</p>
+    <iframe width="400" height="250"
+        src="https://www.youtube.com/embed/2Vv-BfVoq4g">
+    </iframe>
+</section>
+
+<section id="bieudien">
+    <h2>🎭 Nghệ thuật biểu diễn</h2>
+    <p>Cải lương, chèo, múa rối nước là nét đẹp văn hóa đặc sắc.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Vietnamese_water_puppetry.jpg"
+         alt="Múa rối nước Việt Nam">
+</section>
+
+<section>
+    <h2>📊 So sánh cơ hội nghề nghiệp</h2>
+    <table border="1">
+        <tr>
+            <th>Ngành</th>
+            <th>Cơ hội việc làm</th>
+            <th>Thu nhập trung bình</th>
+        </tr>
+        <tr>
+            <td>Hội hoạ</td>
+            <td>Trung bình</td>
+            <td>8 - 20 triệu</td>
+        </tr>
+        <tr>
+            <td>Điện ảnh</td>
+            <td>Cao</td>
+            <td>10 - 30 triệu</td>
+        </tr>
+        <tr>
+            <td>Biểu diễn</td>
+            <td>Phụ thuộc năng lực</td>
+            <td>Không cố định</td>
+        </tr>
+    </table>
+</section>
+
+<footer>
+    <p>© 2026 - Triển lãm nghệ thuật trực tuyến</p>
+</footer>
+
+</body>
+</html>
